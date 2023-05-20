@@ -102,6 +102,7 @@ int GetEnv()
 	}
 
 	arr2[k] = NULL;
+	return 0;
 }
 
 
